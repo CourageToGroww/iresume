@@ -1,6 +1,6 @@
 import express from 'express'
 import cors from 'cors' //Cross-Origin Resource Sharing
-import work_history from '.api/work_history.route.js'
+import work_history from './api/work_history.route.js'
 
 const app=express()
 
